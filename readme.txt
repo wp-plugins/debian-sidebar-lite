@@ -13,7 +13,7 @@ A Debian menu for your website shows Debian networking icons in a un-obtrusive w
 
 Debian sidebar lite is made to promote Debian.
 
-This plugin is lite version of [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/) without javascript just php, xhtml and css.
+This plugin is lite version of [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/) without javascript just php, xhtml and css.
 
 Plugin add Debian media buttons to the right side of your website with style and ease.
 
@@ -22,11 +22,12 @@ How Debian sidebar lite looks see at [ZPop](http://zpop.site90.net/blog/debian-s
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-sidebar-lite-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
-* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
-* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
-* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
-* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
+
+* [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
+* [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
+* [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
+* [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
+* [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
 
 == Installation ==
 
