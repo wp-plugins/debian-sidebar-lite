@@ -1,9 +1,9 @@
 === Debian sidebar lite ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/
+Donate link: http://zeljko.popivoda.com/donacije
 Tags: linux, debian, sidebar
 Requires at least: 2.0.2
-Tested up to: 3.5
+Tested up to: 3.7
 Stable tag: 0.1
 License: GPLv2
 
@@ -13,13 +13,13 @@ A Debian menu for your website shows Debian networking icons in a un-obtrusive w
 
 Debian sidebar lite is made to promote Debian.
 
-This plugin is lite version of [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/) without javascript just php, xhtml and css.
+This plugin is lite version of [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/) without javascript just php, xhtml and css. (Parts of code from [Social sidebar](http://wordpress.org/plugins/social-sidebar) and logo from [Ubuntu pictogram](http://design.ubuntu.com/assets/pictograms) are used for make Debian sidebar.)
 
 Plugin add Debian media buttons to the right side of your website with style and ease.
 
 How Debian sidebar lite looks see at [ZPop](http://zpop.site90.net/blog/debian-sidebar-lite) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-sidebar-lite-wordpress-plugin) blog plugin page.
+In serbian at [Željko Popivoda](http://zeljko.popivoda.com/debian-sidebar-lite-wordpress-plugin) blog plugin page.
 
 My other plugins:
 
@@ -37,7 +37,7 @@ My other plugins:
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/debian-sidebar-lite-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Željko Popivoda](http://zeljko.popivoda.com/debian-sidebar-lite-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 

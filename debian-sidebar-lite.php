@@ -5,12 +5,12 @@
  */
 /*
 Plugin Name: Debian sidebar lite
-Plugin URI: http://wordpress.org/extend/plugins/debian-sidebar-lite
+Plugin URI: http://wordpress.org/plugins/debian-sidebar-lite
 Description: When activated, this plugin will put a Debian sidebar lite on the right side of your website.
-Author: Zeljko Popivoda
+Author: Željko Popivoda
 Version: 0.1
 License: GPLv2
-Author URI: http://zeljko.popivoda.com
+Author URI: http://popivoda.com
 */
 
 function render_debian_sidebar_lite() {
